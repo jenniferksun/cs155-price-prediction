@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Vim temporary and swap files
+*~
+*.swo
+*.swp
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
